@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2017",                                  /* Set the JavaScript language version for emitted JavaScript */
+    "module": "commonjs",                                /* Use commonjs, suitable for Node.js */
+    "outDir": "./dist",                                  /* Output compiled files to the dist folder */
+    "removeComments": true,                              /* Remove comments for a cleaner production build */
+    "strict": true,                                      /* Enable strict type-checking options */
+    "esModuleInterop": true,                             /* Support for CommonJS imports */
+    "forceConsistentCasingInFileNames": true,            /* Ensure consistent casing in file names */
+    "skipLibCheck": true                                 /* Skip type checking of library files */
+  },
+  "include": ["**/*.ts"],                                /* Include all TypeScript files in the root and subfolders */
+  "exclude": ["node_modules", "dist"]                    /* Exclude dependencies and compiled output */
+}
