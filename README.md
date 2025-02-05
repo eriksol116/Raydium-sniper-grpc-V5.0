@@ -39,7 +39,7 @@ Follow these steps to get your **PumpFun Sniper Bot v5.2** up and running!
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/erikerik116/Raydium-sniper-grpc-V5.0.git
+    git clone https://github.com/eriksol116/Raydium-sniper-grpc-V5.0.git
     ```
 
 2. **Install Dependencies**:
