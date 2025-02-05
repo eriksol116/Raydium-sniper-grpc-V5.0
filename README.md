@@ -30,6 +30,10 @@ Discord: @erikerik116
 
 ## 🧑‍💻 **Recording Video**
 
+
+https://github.com/user-attachments/assets/107ed481-33bd-4e11-ab39-0ec4937e7668
+
+
 ## 🚀 **Getting Started**
 
 Follow these steps to get your **PumpFun Sniper Bot v5.2** up and running!
