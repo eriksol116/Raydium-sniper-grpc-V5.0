@@ -28,6 +28,26 @@ Telegram: [@erikerik116](https://t.me/erikerik116)
 
 Discord: @erikerik116
 
+## 🧑‍💻 **Transactions and Dexscreenshot**
+Result:
+
+
+![raydium-sniper-grpc-2block](https://github.com/user-attachments/assets/d057a1e4-424b-4dd1-8f00-f32739c6744f)
+
+Raydium pool creation: [https://solscan.io/tx/2FUSM3yj3xKrVT1fquxpcedduKKPRo5PSN76tUWcRE3F2Rd4B1XFpPb884gLKxpB2AfbCP6oWB5EsdGL4oXRYA8G](https://solscan.io/tx/2FUSM3yj3xKrVT1fquxpcedduKKPRo5PSN76tUWcRE3F2Rd4B1XFpPb884gLKxpB2AfbCP6oWB5EsdGL4oXRYA8G)
+
+
+![raydium-sniper-grpc-2block-poolcreation](https://github.com/user-attachments/assets/0ecd6fe9-a323-4a33-a7a0-cb4f07b26191)
+
+Token snipe and buy : [https://solscan.io/tx/2FUSM3yj3xKrVT1fquxpcedduKKPRo5PSN76tUWcRE3F2Rd4B1XFpPb884gLKxpB2AfbCP6oWB5EsdGL4oXRYA8G](https://solscan.io/tx/2FUSM3yj3xKrVT1fquxpcedduKKPRo5PSN76tUWcRE3F2Rd4B1XFpPb884gLKxpB2AfbCP6oWB5EsdGL4oXRYA8G)
+
+
+
+![raydium-sniper-grpc-2block-buy](https://github.com/user-attachments/assets/6c6a5576-471f-4b7e-acad-cdf3635d7f1e)
+
+
+
+
 ## 🧑‍💻 **Recording Video**
 
 
