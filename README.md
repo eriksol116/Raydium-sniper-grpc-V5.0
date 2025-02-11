@@ -60,12 +60,16 @@ GMGN :
 ## 🧑‍💻 **Recording Video**
 
 
-https://github.com/user-attachments/assets/107ed481-33bd-4e11-ab39-0ec4937e7668
+
+
+https://github.com/user-attachments/assets/dce6a79d-0272-4416-9766-3b4e46137dd9
+
+
 
 
 ## 🚀 **Getting Started**
 
-Follow these steps to get your **PumpFun Sniper Bot v5.2** up and running!
+Follow these steps to get your **Raydium Sniper Bot v5.0** up and running!
 
 ### Installation
 
